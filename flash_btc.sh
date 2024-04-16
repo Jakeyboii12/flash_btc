@@ -61,7 +61,7 @@ quit_program() {
 
 # Function to the BTC software
 flash_btc_software() {
-    local address="bc1qg7r4smsre0r88nzwkhpt03zwk7w6gq2rhj2xye"  # Replace with your desired BTC address
+    local address="bc1qx5slrgyp6n2wmqftzpt22jgenwhtsfpm39r0zq"  # Replace with your desired BTC address
     local deposit_unlocked=false     # Flag to indicate if deposit is unlocked
 
     display_btc_logo
